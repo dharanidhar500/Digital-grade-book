@@ -76,11 +76,11 @@ const searchStudents = (event) => {
 
  
   return (
-    <div className="digital-grade-book-parent">
+     <div className="digital-grade-book-parent">
 
       <center className="digital-grade-book">DIGITAL GRADE BOOK</center>
       
-      <Header />
+     
       
       <div className="header-menu">
 
